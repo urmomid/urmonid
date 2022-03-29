@@ -1,3 +1,4 @@
 0365. 🚀 perf: reduce image load time
 0385. ♻️ chore: clean up unused files
 0059. ♻️ chore: bump dependencies
+0292. 📚 docs: clarify environment setup
