@@ -4,3 +4,4 @@
 0292. 📚 docs: clarify environment setup
 0905. ♻️ chore: bump dependencies
 0368. 🚀 perf: lazy-load components
+0512. 🚀 perf: reduce image load time
