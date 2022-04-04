@@ -5,3 +5,4 @@
 0905. ♻️ chore: bump dependencies
 0368. 🚀 perf: lazy-load components
 0512. 🚀 perf: reduce image load time
+0994. 🚀 perf: reduce image load time
