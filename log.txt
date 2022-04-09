@@ -11,3 +11,4 @@
 0481. ✅ test: add unit test for quiz service
 0740. 🐛 fix: resolve issue with date parsing
 0514. 🐛 fix: fix broken CSS in mobile view
+0572. ✨ feat: add user authentication
