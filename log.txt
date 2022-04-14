@@ -15,3 +15,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0605. ✨ feat: support email verification
 0456. 🚀 perf: optimize database query for quiz results
+0560. 🎨 style: rename variables for clarity
