@@ -20,3 +20,4 @@
 0689. 🎨 style: reformat files with black
 0668. 🚀 perf: optimize database query for quiz results
 0543. ✨ feat: support email verification
+0568. 🐛 fix: handle 500 error in quiz API
