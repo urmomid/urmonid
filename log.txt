@@ -26,3 +26,4 @@
 0758. 🚀 perf: optimize database query for quiz results
 0655. 🚀 perf: cache repeated calculations
 0207. 🐛 fix: prevent crash on empty input
+0418. ✅ test: mock database connection in test suite
