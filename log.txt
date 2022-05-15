@@ -35,3 +35,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0973. 🔧 refactor: organize models into subfolders
 0788. 📚 docs: add API usage examples
+0588. 🔧 refactor: organize models into subfolders
