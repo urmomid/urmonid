@@ -40,3 +40,4 @@
 0771. 🚀 perf: cache repeated calculations
 0317. ✅ test: test user registration edge cases
 0712. 🎨 style: apply consistent indentation
+0088. 📚 docs: add API usage examples
