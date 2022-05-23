@@ -43,3 +43,4 @@
 0088. 📚 docs: add API usage examples
 0548. 📚 docs: write FAQ section
 0729. 🔧 refactor: refactor quiz grading logic
+0203. 🚀 perf: lazy-load components
