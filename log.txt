@@ -48,3 +48,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0957. 🐛 fix: fix null pointer exception on login
 0746. ♻️ chore: add GitHub actions badge
+0850. ♻️ chore: rename env.example
