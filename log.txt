@@ -51,3 +51,4 @@
 0850. ♻️ chore: rename env.example
 0706. ✨ feat: support email verification
 0970. ♻️ chore: update .gitignore
+0356. 📚 docs: write FAQ section
