@@ -54,3 +54,4 @@
 0356. 📚 docs: write FAQ section
 0131. 📚 docs: write FAQ section
 0987. ✨ feat: create admin dashboard
+0979. 🎨 style: standardize quote style
