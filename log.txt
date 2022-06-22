@@ -59,3 +59,4 @@
 0976. ✨ feat: implement quiz timer feature
 0755. 🚀 perf: cache repeated calculations
 0646. ✅ test: test user registration edge cases
+0095. ✅ test: mock database connection in test suite
