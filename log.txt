@@ -61,3 +61,4 @@
 0646. ✅ test: test user registration edge cases
 0095. ✅ test: mock database connection in test suite
 0174. 📚 docs: clarify environment setup
+0935. 📚 docs: update README with setup steps
