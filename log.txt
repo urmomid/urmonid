@@ -63,3 +63,4 @@
 0174. 📚 docs: clarify environment setup
 0935. 📚 docs: update README with setup steps
 0757. 🔧 refactor: remove redundant code blocks
+0118. 🚀 perf: reduce image load time
