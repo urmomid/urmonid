@@ -66,3 +66,4 @@
 0118. 🚀 perf: reduce image load time
 0988. 🐛 fix: fix broken CSS in mobile view
 0448. 🐛 fix: correct typo in registration form
+0551. 📚 docs: write FAQ section
