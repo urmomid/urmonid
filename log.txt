@@ -69,3 +69,4 @@
 0551. 📚 docs: write FAQ section
 0182. 🔧 refactor: remove redundant code blocks
 0342. 🚀 perf: cache repeated calculations
+0189. 📚 docs: clarify environment setup
