@@ -77,3 +77,4 @@
 0078. ♻️ chore: update .gitignore
 0538. 🐛 fix: fix broken CSS in mobile view
 0773. 📚 docs: document token refresh logic
+0153. ♻️ chore: rename env.example
