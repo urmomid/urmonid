@@ -80,3 +80,4 @@
 0153. ♻️ chore: rename env.example
 0305. ✨ feat: enable dark mode toggle
 0081. 🐛 fix: fix null pointer exception on login
+0541. 🐛 fix: correct typo in registration form
