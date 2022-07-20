@@ -83,3 +83,4 @@
 0541. 🐛 fix: correct typo in registration form
 0980. 🎨 style: reformat files with black
 0985. 📚 docs: document token refresh logic
+0962. ✨ feat: create admin dashboard
