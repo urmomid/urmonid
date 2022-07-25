@@ -84,3 +84,4 @@
 0980. 🎨 style: reformat files with black
 0985. 📚 docs: document token refresh logic
 0962. ✨ feat: create admin dashboard
+0344. ♻️ chore: add GitHub actions badge
