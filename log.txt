@@ -88,3 +88,4 @@
 0641. 📚 docs: write FAQ section
 0112. ✨ feat: enable dark mode toggle
 0828. ♻️ chore: add GitHub actions badge
+0499. 🎨 style: reformat files with black
