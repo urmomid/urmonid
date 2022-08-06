@@ -93,3 +93,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0297. 🎨 style: remove trailing whitespace
 0353. ♻️ chore: rename env.example
+0721. 🚀 perf: optimize database query for quiz results
