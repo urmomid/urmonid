@@ -95,3 +95,4 @@
 0353. ♻️ chore: rename env.example
 0721. 🚀 perf: optimize database query for quiz results
 0734. ✨ feat: add export to CSV option
+0162. ♻️ chore: add GitHub actions badge
