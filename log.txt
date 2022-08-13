@@ -98,3 +98,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0267. 📚 docs: improve code comments in utils
 0023. 📚 docs: clarify environment setup
+0026. 🔧 refactor: clean up auth middleware
