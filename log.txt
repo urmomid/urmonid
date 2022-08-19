@@ -104,3 +104,4 @@
 0038. 🎨 style: rename variables for clarity
 0454. ♻️ chore: bump dependencies
 0097. 🐛 fix: handle 500 error in quiz API
+0116. ✨ feat: support email verification
