@@ -108,3 +108,4 @@
 0031. 📚 docs: document token refresh logic
 0455. ♻️ chore: clean up unused files
 0594. 🎨 style: reformat files with black
+0488. ♻️ chore: add GitHub actions badge
