@@ -111,3 +111,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0109. 🚀 perf: lazy-load components
 0561. 📚 docs: write FAQ section
+0808. 🚀 perf: optimize database query for quiz results
