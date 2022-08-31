@@ -116,3 +116,4 @@
 0307. ✨ feat: support email verification
 0968. 🎨 style: standardize quote style
 0640. ♻️ chore: bump dependencies
+0212. 🎨 style: standardize quote style
