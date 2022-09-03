@@ -121,3 +121,4 @@
 0060. ♻️ chore: clean up unused files
 0350. 🚀 perf: cache repeated calculations
 0229. 🚀 perf: optimize database query for quiz results
+0546. 🐛 fix: fix null pointer exception on login
