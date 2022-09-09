@@ -125,3 +125,4 @@
 0627. 📚 docs: document token refresh logic
 0473. 📚 docs: write FAQ section
 0036. 🔧 refactor: clean up auth middleware
+0172. 📚 docs: add API usage examples
