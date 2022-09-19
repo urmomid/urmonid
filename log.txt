@@ -129,3 +129,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0165. 🎨 style: remove trailing whitespace
 0096. 🐛 fix: prevent crash on empty input
+0959. 🐛 fix: fix null pointer exception on login
