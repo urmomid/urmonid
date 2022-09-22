@@ -130,3 +130,4 @@
 0165. 🎨 style: remove trailing whitespace
 0096. 🐛 fix: prevent crash on empty input
 0959. 🐛 fix: fix null pointer exception on login
+0549. ✨ feat: enable dark mode toggle
