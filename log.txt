@@ -132,3 +132,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0549. ✨ feat: enable dark mode toggle
 0338. ♻️ chore: add GitHub actions badge
+0464. 🎨 style: remove trailing whitespace
