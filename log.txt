@@ -139,3 +139,4 @@
 0820. 📚 docs: add API usage examples
 0971. 🎨 style: standardize quote style
 0891. ✨ feat: create admin dashboard
+0948. 🐛 fix: fix broken CSS in mobile view
