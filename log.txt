@@ -151,3 +151,4 @@
 0440. 📚 docs: update README with setup steps
 0933. 📚 docs: clarify environment setup
 0361. ✨ feat: support email verification
+0563. 📚 docs: clarify environment setup
