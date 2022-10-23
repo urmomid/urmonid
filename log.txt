@@ -158,3 +158,4 @@
 0295. 🎨 style: remove trailing whitespace
 0989. 📚 docs: write FAQ section
 0442. 🎨 style: standardize quote style
+0094. 📚 docs: document token refresh logic
