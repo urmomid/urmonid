@@ -169,3 +169,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0526. ✨ feat: add user authentication
 0790. 📚 docs: write FAQ section
+0993. ✨ feat: implement quiz timer feature
