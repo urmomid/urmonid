@@ -175,3 +175,4 @@
 0333. 🚀 perf: cache repeated calculations
 0562. 🔧 refactor: clean up auth middleware
 0237. 🎨 style: standardize quote style
+0727. ♻️ chore: add GitHub actions badge
