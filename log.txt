@@ -177,3 +177,4 @@
 0237. 🎨 style: standardize quote style
 0727. ♻️ chore: add GitHub actions badge
 0327. 🔧 refactor: split large controller into smaller functions
+0206. 🐛 fix: handle 500 error in quiz API
