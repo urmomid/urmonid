@@ -180,3 +180,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0821. ✅ test: add integration test for /submit endpoint
 0022. 📚 docs: document token refresh logic
+0135. ✅ test: test user registration edge cases
