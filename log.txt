@@ -182,3 +182,4 @@
 0022. 📚 docs: document token refresh logic
 0135. ✅ test: test user registration edge cases
 0921. 🐛 fix: correct typo in registration form
+0152. ✨ feat: add user authentication
