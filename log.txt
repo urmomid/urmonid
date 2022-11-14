@@ -184,3 +184,4 @@
 0921. 🐛 fix: correct typo in registration form
 0152. ✨ feat: add user authentication
 0006. 🐛 fix: prevent crash on empty input
+0101. 📚 docs: clarify environment setup
