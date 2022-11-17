@@ -188,3 +188,4 @@
 0308. 🚀 perf: reduce image load time
 0566. 📚 docs: write FAQ section
 0609. 🐛 fix: handle 500 error in quiz API
+0698. 🐛 fix: handle 500 error in quiz API
