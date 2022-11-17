@@ -187,3 +187,4 @@
 0101. 📚 docs: clarify environment setup
 0308. 🚀 perf: reduce image load time
 0566. 📚 docs: write FAQ section
+0609. 🐛 fix: handle 500 error in quiz API
