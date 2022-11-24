@@ -196,3 +196,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0629. 🔧 refactor: organize models into subfolders
 0710. 🐛 fix: fix broken CSS in mobile view
+0461. ✨ feat: add user authentication
