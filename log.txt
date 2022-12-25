@@ -219,3 +219,4 @@
 0393. 🚀 perf: lazy-load components
 0370. 🚀 perf: reduce image load time
 0244. ✨ feat: add export to CSV option
+0379. ✨ feat: support email verification
