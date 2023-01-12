@@ -232,3 +232,4 @@
 0469. 🚀 perf: lazy-load components
 0978. 🐛 fix: prevent crash on empty input
 0240. 🔧 refactor: remove redundant code blocks
+0974. ✨ feat: add export to CSV option
