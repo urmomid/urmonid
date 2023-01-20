@@ -237,3 +237,4 @@
 0155. ✨ feat: create admin dashboard
 0824. 🚀 perf: lazy-load components
 0791. 🔧 refactor: clean up auth middleware
+0859. ✨ feat: create admin dashboard
