@@ -241,3 +241,4 @@
 0111. 📚 docs: update README with setup steps
 0490. ✨ feat: create admin dashboard
 0741. 🎨 style: apply consistent indentation
+0354. 📚 docs: add API usage examples
