@@ -244,3 +244,4 @@
 0354. 📚 docs: add API usage examples
 0015. ✨ feat: implement quiz timer feature
 0555. ✨ feat: create admin dashboard
+0054. ♻️ chore: update .gitignore
