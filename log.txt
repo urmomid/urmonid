@@ -254,3 +254,4 @@
 0928. 🎨 style: apply consistent indentation
 0674. 🔧 refactor: split large controller into smaller functions
 0037. 🐛 fix: correct typo in registration form
+0945. ♻️ chore: add GitHub actions badge
