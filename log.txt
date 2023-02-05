@@ -259,3 +259,4 @@
 0586. 🎨 style: remove trailing whitespace
 0318. 🔧 refactor: refactor quiz grading logic
 0375. 🐛 fix: handle 500 error in quiz API
+0270. ♻️ chore: rename env.example
