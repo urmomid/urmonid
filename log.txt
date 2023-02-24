@@ -276,3 +276,4 @@
 0159. 🚀 perf: lazy-load components
 0086. 🐛 fix: correct typo in registration form
 0849. 🐛 fix: correct typo in registration form
+0304. 🔧 refactor: remove redundant code blocks
