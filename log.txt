@@ -282,3 +282,4 @@
 0677. 📚 docs: add API usage examples
 0190. 🎨 style: rename variables for clarity
 0055. 📚 docs: update README with setup steps
+0844. 📚 docs: update README with setup steps
