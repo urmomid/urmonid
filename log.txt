@@ -288,3 +288,4 @@
 0940. 📚 docs: document token refresh logic
 0508. ✅ test: add unit test for quiz service
 0618. ✨ feat: support email verification
+0652. 🔧 refactor: organize models into subfolders
