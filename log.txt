@@ -291,3 +291,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0852. ✨ feat: enable dark mode toggle
 0665. ♻️ chore: update .gitignore
+0805. ♻️ chore: add GitHub actions badge
