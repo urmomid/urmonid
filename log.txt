@@ -297,3 +297,4 @@
 0160. ♻️ chore: bump dependencies
 0284. ✨ feat: implement quiz timer feature
 0636. ✅ test: increase coverage on auth module
+0422. 🔧 refactor: organize models into subfolders
