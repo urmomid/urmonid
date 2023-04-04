@@ -303,3 +303,4 @@
 0786. ✨ feat: enable dark mode toggle
 0683. ✅ test: mock database connection in test suite
 0644. 🎨 style: apply consistent indentation
+0682. ♻️ chore: rename env.example
