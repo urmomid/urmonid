@@ -308,3 +308,4 @@
 0831. 📚 docs: clarify environment setup
 0781. 🚀 perf: reduce image load time
 0705. 🔧 refactor: refactor quiz grading logic
+0761. ✅ test: add unit test for quiz service
