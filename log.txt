@@ -318,3 +318,4 @@
 0768. 🎨 style: remove trailing whitespace
 0519. 📚 docs: document token refresh logic
 0704. 🚀 perf: cache repeated calculations
+0595. ✨ feat: enable dark mode toggle
