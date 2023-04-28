@@ -324,3 +324,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0634. 🎨 style: reformat files with black
 0848. 📚 docs: update README with setup steps
+0587. 🔧 refactor: remove redundant code blocks
