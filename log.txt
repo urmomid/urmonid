@@ -327,3 +327,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0259. 🚀 perf: lazy-load components
 0406. ✨ feat: add export to CSV option
+0102. ✨ feat: support email verification
