@@ -329,3 +329,4 @@
 0406. ✨ feat: add export to CSV option
 0102. ✨ feat: support email verification
 0582. ✨ feat: add export to CSV option
+0553. 🐛 fix: correct typo in registration form
