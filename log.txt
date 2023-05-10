@@ -331,3 +331,4 @@
 0582. ✨ feat: add export to CSV option
 0553. 🐛 fix: correct typo in registration form
 0793. 📚 docs: clarify environment setup
+0676. 🐛 fix: prevent crash on empty input
