@@ -335,3 +335,4 @@
 0150. 🎨 style: remove trailing whitespace
 0381. ♻️ chore: clean up unused files
 0125. ✅ test: add integration test for /submit endpoint
+0040. 🔧 refactor: clean up auth middleware
