@@ -334,3 +334,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0150. 🎨 style: remove trailing whitespace
 0381. ♻️ chore: clean up unused files
+0125. ✅ test: add integration test for /submit endpoint
