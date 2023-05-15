@@ -336,3 +336,4 @@
 0381. ♻️ chore: clean up unused files
 0125. ✅ test: add integration test for /submit endpoint
 0040. 🔧 refactor: clean up auth middleware
+0395. 📚 docs: write FAQ section
