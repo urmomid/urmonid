@@ -343,3 +343,4 @@
 0420. 🚀 perf: reduce image load time
 0283. ♻️ chore: add GitHub actions badge
 0265. 🎨 style: reformat files with black
+0886. ♻️ chore: clean up unused files
