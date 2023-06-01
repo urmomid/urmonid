@@ -345,3 +345,4 @@
 0265. 🎨 style: reformat files with black
 0886. ♻️ chore: clean up unused files
 0943. 🎨 style: rename variables for clarity
+0769. ✨ feat: create admin dashboard
