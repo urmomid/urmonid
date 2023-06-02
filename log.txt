@@ -347,3 +347,4 @@
 0943. 🎨 style: rename variables for clarity
 0769. ✨ feat: create admin dashboard
 0999. 🔧 refactor: split large controller into smaller functions
+0893. 🐛 fix: handle 500 error in quiz API
