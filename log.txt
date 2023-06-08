@@ -350,3 +350,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0076. 🎨 style: reformat files with black
 0906. 📚 docs: add API usage examples
+0686. 🎨 style: standardize quote style
