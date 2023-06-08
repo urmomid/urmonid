@@ -351,3 +351,4 @@
 0076. 🎨 style: reformat files with black
 0906. 📚 docs: add API usage examples
 0686. 🎨 style: standardize quote style
+0949. 📚 docs: write FAQ section
