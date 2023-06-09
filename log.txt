@@ -352,3 +352,4 @@
 0906. 📚 docs: add API usage examples
 0686. 🎨 style: standardize quote style
 0949. 📚 docs: write FAQ section
+0008. 🚀 perf: reduce image load time
