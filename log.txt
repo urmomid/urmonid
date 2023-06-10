@@ -353,3 +353,4 @@
 0686. 🎨 style: standardize quote style
 0949. 📚 docs: write FAQ section
 0008. 🚀 perf: reduce image load time
+0181. ♻️ chore: add GitHub actions badge
