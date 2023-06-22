@@ -356,3 +356,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0556. ✨ feat: support email verification
 0920. 🔧 refactor: organize models into subfolders
+0835. 🐛 fix: prevent crash on empty input
