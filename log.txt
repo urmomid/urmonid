@@ -362,3 +362,4 @@
 0491. 🚀 perf: lazy-load components
 0360. ✨ feat: add export to CSV option
 0289. 🐛 fix: resolve issue with date parsing
+0154. 🐛 fix: prevent crash on empty input
