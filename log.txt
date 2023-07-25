@@ -382,3 +382,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0268. 🐛 fix: prevent crash on empty input
 0879. 🎨 style: standardize quote style
+0941. 🚀 perf: cache repeated calculations
