@@ -384,3 +384,4 @@
 0879. 🎨 style: standardize quote style
 0941. 🚀 perf: cache repeated calculations
 0669. ✨ feat: enable dark mode toggle
+0384. 📚 docs: clarify environment setup
