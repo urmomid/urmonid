@@ -398,3 +398,4 @@
 0123. ✨ feat: implement quiz timer feature
 0996. ✅ test: test user registration edge cases
 0141. 📚 docs: document token refresh logic
+0547. 📚 docs: write FAQ section
