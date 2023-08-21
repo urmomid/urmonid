@@ -414,3 +414,4 @@
 0868. ✅ test: add unit test for quiz service
 0428. 🐛 fix: fix null pointer exception on login
 0955. 🔧 refactor: remove redundant code blocks
+0961. 📚 docs: add API usage examples
