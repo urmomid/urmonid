@@ -421,3 +421,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0664. ✅ test: add unit test for quiz service
 0349. ✅ test: increase coverage on auth module
+0407. 🚀 perf: cache repeated calculations
