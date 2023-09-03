@@ -429,3 +429,4 @@
 0337. 📚 docs: document token refresh logic
 0291. 📚 docs: write FAQ section
 0909. 🔧 refactor: organize models into subfolders
+0958. 🐛 fix: prevent crash on empty input
