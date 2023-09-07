@@ -432,3 +432,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0477. 🐛 fix: fix broken CSS in mobile view
 0246. ✅ test: add integration test for /submit endpoint
+0373. 📚 docs: document token refresh logic
