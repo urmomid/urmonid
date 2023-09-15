@@ -439,3 +439,4 @@
 0518. ✨ feat: support email verification
 0376. 🎨 style: apply consistent indentation
 0032. 🎨 style: apply consistent indentation
+0276. ✅ test: add integration test for /submit endpoint
