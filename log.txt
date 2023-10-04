@@ -447,3 +447,4 @@
 0486. ✨ feat: add export to CSV option
 0197. 📚 docs: update README with setup steps
 0279. ✨ feat: support email verification
+0750. 🎨 style: apply consistent indentation
