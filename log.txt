@@ -448,3 +448,4 @@
 0197. 📚 docs: update README with setup steps
 0279. ✨ feat: support email verification
 0750. 🎨 style: apply consistent indentation
+0617. ✨ feat: support email verification
