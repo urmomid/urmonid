@@ -449,3 +449,4 @@
 0279. ✨ feat: support email verification
 0750. 🎨 style: apply consistent indentation
 0617. ✨ feat: support email verification
+0479. 🐛 fix: fix null pointer exception on login
