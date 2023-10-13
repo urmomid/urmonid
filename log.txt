@@ -453,3 +453,4 @@
 0226. 🚀 perf: lazy-load components
 0194. 🎨 style: standardize quote style
 0438. ♻️ chore: bump dependencies
+0290. ✅ test: test user registration edge cases
