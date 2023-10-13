@@ -454,3 +454,4 @@
 0194. 🎨 style: standardize quote style
 0438. ♻️ chore: bump dependencies
 0290. ✅ test: test user registration edge cases
+0024. 📚 docs: write FAQ section
