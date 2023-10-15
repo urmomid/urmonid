@@ -456,3 +456,4 @@
 0290. ✅ test: test user registration edge cases
 0024. 📚 docs: write FAQ section
 0148. 🔧 refactor: organize models into subfolders
+0409. 🚀 perf: lazy-load components
