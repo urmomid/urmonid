@@ -467,3 +467,4 @@
 0777. 📚 docs: document token refresh logic
 0108. 🎨 style: remove trailing whitespace
 0450. 🐛 fix: fix broken CSS in mobile view
+0937. 🐛 fix: handle 500 error in quiz API
