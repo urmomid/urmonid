@@ -482,3 +482,4 @@
 0690. 🚀 perf: lazy-load components
 0079. 🐛 fix: correct typo in registration form
 0085. ✨ feat: support email verification
+0489. 🔧 refactor: organize models into subfolders
