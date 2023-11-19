@@ -486,3 +486,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0497. 🔧 refactor: refactor quiz grading logic
 0403. ✅ test: mock database connection in test suite
+0947. 📚 docs: write FAQ section
