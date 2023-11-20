@@ -487,3 +487,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0403. ✅ test: mock database connection in test suite
 0947. 📚 docs: write FAQ section
+0860. 🔧 refactor: organize models into subfolders
