@@ -489,3 +489,4 @@
 0947. 📚 docs: write FAQ section
 0860. 🔧 refactor: organize models into subfolders
 0063. 🐛 fix: handle 500 error in quiz API
+0580. ♻️ chore: bump dependencies
