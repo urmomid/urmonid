@@ -490,3 +490,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0063. 🐛 fix: handle 500 error in quiz API
 0580. ♻️ chore: bump dependencies
+0493. ✨ feat: add user authentication
