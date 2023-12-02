@@ -494,3 +494,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0915. 🚀 perf: cache repeated calculations
 0923. ✨ feat: support email verification
+0898. 🐛 fix: fix broken CSS in mobile view
