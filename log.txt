@@ -499,3 +499,4 @@
 0782. 📚 docs: improve code comments in utils
 0475. 🔧 refactor: clean up auth middleware
 0517. ✅ test: mock database connection in test suite
+0749. ✨ feat: support email verification
