@@ -505,3 +505,4 @@
 0134. ✨ feat: implement quiz timer feature
 0730. ✅ test: test user registration edge cases
 0545. 🎨 style: standardize quote style
+0939. 📚 docs: update README with setup steps
