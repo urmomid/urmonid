@@ -510,3 +510,4 @@
 0972. 🔧 refactor: refactor quiz grading logic
 0161. ✨ feat: create admin dashboard
 0507. 🔧 refactor: clean up auth middleware
+0110. 🐛 fix: prevent crash on empty input
