@@ -514,3 +514,4 @@
 0685. ✅ test: test user registration edge cases
 0004. 🚀 perf: optimize database query for quiz results
 0608. 🔧 refactor: remove redundant code blocks
+0990. ♻️ chore: rename env.example
