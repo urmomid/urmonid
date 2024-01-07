@@ -524,3 +524,4 @@
 0064. 📚 docs: clarify environment setup
 0025. 🚀 perf: optimize database query for quiz results
 0599. ✅ test: test user registration edge cases
+0179. 🔧 refactor: split large controller into smaller functions
