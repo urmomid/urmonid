@@ -528,3 +528,4 @@
 0092. 🚀 perf: reduce image load time
 0743. 🎨 style: apply consistent indentation
 0339. 📚 docs: update README with setup steps
+0858. ♻️ chore: clean up unused files
