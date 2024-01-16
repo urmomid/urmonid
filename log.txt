@@ -536,3 +536,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0129. 🔧 refactor: organize models into subfolders
 0124. 🎨 style: reformat files with black
+0896. 🚀 perf: reduce image load time
