@@ -538,3 +538,4 @@
 0124. 🎨 style: reformat files with black
 0896. 🚀 perf: reduce image load time
 0191. 🔧 refactor: refactor quiz grading logic
+0997. ✅ test: increase coverage on auth module
