@@ -544,3 +544,4 @@
 0435. ✅ test: add unit test for quiz service
 0716. ✨ feat: implement quiz timer feature
 0711. 🐛 fix: fix broken CSS in mobile view
+0864. 🐛 fix: correct typo in registration form
