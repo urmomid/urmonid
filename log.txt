@@ -561,3 +561,4 @@
 0382. 📚 docs: improve code comments in utils
 0300. ✨ feat: add export to CSV option
 0202. 🔧 refactor: refactor quiz grading logic
+0687. 🎨 style: remove trailing whitespace
