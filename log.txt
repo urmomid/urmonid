@@ -562,3 +562,4 @@
 0300. ✨ feat: add export to CSV option
 0202. 🔧 refactor: refactor quiz grading logic
 0687. 🎨 style: remove trailing whitespace
+0247. 🎨 style: apply consistent indentation
