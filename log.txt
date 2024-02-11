@@ -568,3 +568,4 @@
 0100. ♻️ chore: update .gitignore
 0106. 🎨 style: reformat files with black
 0250. 📚 docs: update README with setup steps
+0390. 🎨 style: standardize quote style
