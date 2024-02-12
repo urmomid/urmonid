@@ -570,3 +570,4 @@
 0250. 📚 docs: update README with setup steps
 0390. 🎨 style: standardize quote style
 0070. ✨ feat: implement quiz timer feature
+0001. 🚀 perf: cache repeated calculations
