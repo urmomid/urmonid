@@ -576,3 +576,4 @@
 0412. ✅ test: increase coverage on auth module
 0380. 🐛 fix: fix null pointer exception on login
 0263. 📚 docs: add API usage examples
+0233. 🚀 perf: lazy-load components
