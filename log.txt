@@ -594,3 +594,4 @@
 0121. ✨ feat: support email verification
 0468. 📚 docs: update README with setup steps
 0913. 🚀 perf: optimize database query for quiz results
+0789. ✨ feat: create admin dashboard
