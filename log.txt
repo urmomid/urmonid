@@ -597,3 +597,4 @@
 0789. ✨ feat: create admin dashboard
 0334. 🚀 perf: cache repeated calculations
 0195. 📚 docs: clarify environment setup
+0012. 🚀 perf: cache repeated calculations
