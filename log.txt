@@ -598,3 +598,4 @@
 0334. 🚀 perf: cache repeated calculations
 0195. 📚 docs: clarify environment setup
 0012. 🚀 perf: cache repeated calculations
+0056. ♻️ chore: rename env.example
