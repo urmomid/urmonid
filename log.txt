@@ -604,3 +604,4 @@
 0954. 🚀 perf: cache repeated calculations
 0223. 🔧 refactor: remove redundant code blocks
 0759. 🔧 refactor: organize models into subfolders
+0091. ✨ feat: add user authentication
