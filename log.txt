@@ -610,3 +610,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0149. ✨ feat: add export to CSV option
 0592. 📚 docs: add API usage examples
+0557. 🔧 refactor: clean up auth middleware
