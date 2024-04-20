@@ -616,3 +616,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0238. 🎨 style: apply consistent indentation
 0185. 📚 docs: write FAQ section
+0021. ✨ feat: support email verification
