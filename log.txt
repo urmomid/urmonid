@@ -618,3 +618,4 @@
 0185. 📚 docs: write FAQ section
 0021. ✨ feat: support email verification
 0028. 🎨 style: standardize quote style
+0480. ♻️ chore: add GitHub actions badge
