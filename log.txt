@@ -619,3 +619,4 @@
 0021. ✨ feat: support email verification
 0028. 🎨 style: standardize quote style
 0480. ♻️ chore: add GitHub actions badge
+0204. 🎨 style: standardize quote style
