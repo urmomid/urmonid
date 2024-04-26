@@ -620,3 +620,4 @@
 0028. 🎨 style: standardize quote style
 0480. ♻️ chore: add GitHub actions badge
 0204. 🎨 style: standardize quote style
+0598. 🔧 refactor: remove redundant code blocks
