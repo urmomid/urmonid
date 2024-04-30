@@ -622,3 +622,4 @@
 0204. 🎨 style: standardize quote style
 0598. 🔧 refactor: remove redundant code blocks
 0900. 🐛 fix: handle 500 error in quiz API
+0484. 🐛 fix: handle 500 error in quiz API
