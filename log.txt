@@ -627,3 +627,4 @@
 0019. ✨ feat: enable dark mode toggle
 0534. 🔧 refactor: split large controller into smaller functions
 0663. 🚀 perf: reduce image load time
+0345. 📚 docs: document token refresh logic
