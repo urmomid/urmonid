@@ -631,3 +631,4 @@
 0516. ✅ test: add unit test for quiz service
 0298. ♻️ chore: update .gitignore
 0397. 🐛 fix: handle 500 error in quiz API
+0836. 🚀 perf: optimize database query for quiz results
