@@ -644,3 +644,4 @@
 0826. 📚 docs: clarify environment setup
 0918. ✨ feat: enable dark mode toggle
 0871. ✅ test: add integration test for /submit endpoint
+0066. 🔧 refactor: clean up auth middleware
