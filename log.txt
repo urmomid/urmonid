@@ -651,3 +651,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0391. 🐛 fix: fix null pointer exception on login
 0048. 📚 docs: update README with setup steps
+0628. ♻️ chore: add GitHub actions badge
