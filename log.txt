@@ -650,3 +650,4 @@
 0876. ♻️ chore: rename env.example
 0400. 🐛 fix: fix null pointer exception on login
 0391. 🐛 fix: fix null pointer exception on login
+0048. 📚 docs: update README with setup steps
