@@ -653,3 +653,4 @@
 0048. 📚 docs: update README with setup steps
 0628. ♻️ chore: add GitHub actions badge
 0910. 🎨 style: remove trailing whitespace
+0187. ✨ feat: support email verification
