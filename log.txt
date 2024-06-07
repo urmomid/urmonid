@@ -654,3 +654,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0910. 🎨 style: remove trailing whitespace
 0187. ✨ feat: support email verification
+0402. 🎨 style: reformat files with black
