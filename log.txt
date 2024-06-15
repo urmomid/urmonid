@@ -661,3 +661,4 @@
 0946. ✅ test: add unit test for quiz service
 0579. 📚 docs: clarify environment setup
 0482. ✨ feat: add export to CSV option
+0702. ✨ feat: add user authentication
