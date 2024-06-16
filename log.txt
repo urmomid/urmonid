@@ -662,3 +662,4 @@
 0579. 📚 docs: clarify environment setup
 0482. ✨ feat: add export to CSV option
 0702. ✨ feat: add user authentication
+0696. 🔧 refactor: clean up auth middleware
