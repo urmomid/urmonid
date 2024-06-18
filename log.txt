@@ -666,3 +666,4 @@
 0837. 🚀 perf: cache repeated calculations
 0631. ✨ feat: create admin dashboard
 0794. ♻️ chore: clean up unused files
+0633. ✨ feat: add user authentication
