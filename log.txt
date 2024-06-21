@@ -669,3 +669,4 @@
 0633. ✨ feat: add user authentication
 0688. 🚀 perf: reduce image load time
 0739. 🎨 style: remove trailing whitespace
+0956. 📚 docs: clarify environment setup
