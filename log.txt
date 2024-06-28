@@ -673,3 +673,4 @@
 0914. ✅ test: test user registration edge cases
 0648. ♻️ chore: bump dependencies
 0084. 🐛 fix: handle 500 error in quiz API
+0287. 📚 docs: write FAQ section
