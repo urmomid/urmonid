@@ -678,3 +678,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0372. ✨ feat: add user authentication
 0570. 🎨 style: apply consistent indentation
+0114. ♻️ chore: update .gitignore
