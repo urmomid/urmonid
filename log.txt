@@ -679,3 +679,4 @@
 0372. ✨ feat: add user authentication
 0570. 🎨 style: apply consistent indentation
 0114. ♻️ chore: update .gitignore
+0885. ♻️ chore: update .gitignore
