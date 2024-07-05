@@ -680,3 +680,4 @@
 0570. 🎨 style: apply consistent indentation
 0114. ♻️ chore: update .gitignore
 0885. ♻️ chore: update .gitignore
+0180. ✨ feat: add export to CSV option
