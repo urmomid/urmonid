@@ -682,3 +682,4 @@
 0885. ♻️ chore: update .gitignore
 0180. ✨ feat: add export to CSV option
 0984. ♻️ chore: clean up unused files
+0558. ✨ feat: enable dark mode toggle
