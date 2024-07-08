@@ -683,3 +683,4 @@
 0180. ✨ feat: add export to CSV option
 0984. ♻️ chore: clean up unused files
 0558. ✨ feat: enable dark mode toggle
+0819. 🚀 perf: reduce image load time
