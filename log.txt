@@ -691,3 +691,4 @@
 0726. ✨ feat: enable dark mode toggle
 0090. ✅ test: increase coverage on auth module
 0013. ✅ test: increase coverage on auth module
+0576. ♻️ chore: update .gitignore
