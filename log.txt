@@ -699,3 +699,4 @@
 0147. ♻️ chore: bump dependencies
 0901. ✨ feat: add user authentication
 0867. 🔧 refactor: refactor quiz grading logic
+0845. 🚀 perf: cache repeated calculations
