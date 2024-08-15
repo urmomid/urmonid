@@ -705,3 +705,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0938. 🎨 style: rename variables for clarity
 0369. 🎨 style: standardize quote style
+0589. 🐛 fix: fix broken CSS in mobile view
