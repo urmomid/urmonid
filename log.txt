@@ -706,3 +706,4 @@
 0938. 🎨 style: rename variables for clarity
 0369. 🎨 style: standardize quote style
 0589. 🐛 fix: fix broken CSS in mobile view
+0262. 🎨 style: remove trailing whitespace
