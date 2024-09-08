@@ -728,3 +728,4 @@
 0167. 🚀 perf: reduce image load time
 0460. 📚 docs: write FAQ section
 0916. ♻️ chore: bump dependencies
+0453. 🎨 style: standardize quote style
