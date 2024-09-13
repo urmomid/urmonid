@@ -735,3 +735,4 @@
 0645. 🐛 fix: resolve issue with date parsing
 0254. 🚀 perf: reduce image load time
 0651. ✨ feat: enable dark mode toggle
+0186. ✅ test: test user registration edge cases
