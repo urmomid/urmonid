@@ -746,3 +746,4 @@
 0158. 📚 docs: clarify environment setup
 0632. 🎨 style: remove trailing whitespace
 0866. 📚 docs: add API usage examples
+0762. 🚀 perf: lazy-load components
