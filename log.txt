@@ -748,3 +748,4 @@
 0866. 📚 docs: add API usage examples
 0762. 🚀 perf: lazy-load components
 0288. 🔧 refactor: refactor quiz grading logic
+0500. ✅ test: add integration test for /submit endpoint
