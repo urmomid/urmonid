@@ -757,3 +757,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0719. 🎨 style: apply consistent indentation
 0388. 🎨 style: reformat files with black
+0427. ✅ test: mock database connection in test suite
