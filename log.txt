@@ -765,3 +765,4 @@
 0981. 🚀 perf: lazy-load components
 0143. ✨ feat: implement quiz timer feature
 0062. ♻️ chore: update .gitignore
+0735. ♻️ chore: add GitHub actions badge
