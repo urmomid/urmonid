@@ -775,3 +775,4 @@
 0927. ♻️ chore: bump dependencies
 0471. ✨ feat: support email verification
 0912. 📚 docs: document token refresh logic
+0880. 🐛 fix: fix broken CSS in mobile view
