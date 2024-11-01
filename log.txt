@@ -779,3 +779,4 @@
 0614. 🚀 perf: reduce image load time
 0041. 🐛 fix: fix broken CSS in mobile view
 0851. ✅ test: mock database connection in test suite
+0742. 📚 docs: clarify environment setup
