@@ -788,3 +788,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0569. 📚 docs: document token refresh logic
 0010. ✨ feat: add user authentication
+0552. 🐛 fix: fix null pointer exception on login
