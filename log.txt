@@ -793,3 +793,4 @@
 0839. 🎨 style: apply consistent indentation
 0377. ✨ feat: add user authentication
 0215. 🎨 style: reformat files with black
+0529. 📚 docs: write FAQ section
