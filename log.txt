@@ -796,3 +796,4 @@
 0529. 📚 docs: write FAQ section
 0603. 🐛 fix: fix broken CSS in mobile view
 0728. 🔧 refactor: split large controller into smaller functions
+0965. 🎨 style: reformat files with black
