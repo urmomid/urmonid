@@ -798,3 +798,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0965. 🎨 style: reformat files with black
 0099. 🚀 perf: reduce image load time
+0219. ✅ test: increase coverage on auth module
