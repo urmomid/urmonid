@@ -800,3 +800,4 @@
 0099. 🚀 perf: reduce image load time
 0219. ✅ test: increase coverage on auth module
 0530. 🔧 refactor: refactor quiz grading logic
+0020. ✅ test: add integration test for /submit endpoint
