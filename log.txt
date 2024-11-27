@@ -804,3 +804,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0474. ✅ test: add unit test for quiz service
 0612. ✅ test: test user registration edge cases
+0784. ♻️ chore: clean up unused files
