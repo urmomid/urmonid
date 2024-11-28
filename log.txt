@@ -806,3 +806,4 @@
 0612. ✅ test: test user registration edge cases
 0784. ♻️ chore: clean up unused files
 0986. 📚 docs: document token refresh logic
+0675. 🔧 refactor: organize models into subfolders
