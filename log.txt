@@ -808,3 +808,4 @@
 0986. 📚 docs: document token refresh logic
 0675. 🔧 refactor: organize models into subfolders
 0693. 📚 docs: add API usage examples
+0278. 🔧 refactor: clean up auth middleware
