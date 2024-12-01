@@ -812,3 +812,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0796. 🔧 refactor: refactor quiz grading logic
 0983. 🔧 refactor: split large controller into smaller functions
+0678. ✨ feat: add user authentication
