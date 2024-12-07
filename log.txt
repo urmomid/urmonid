@@ -820,3 +820,4 @@
 0447. ♻️ chore: bump dependencies
 0908. ♻️ chore: bump dependencies
 0458. ✨ feat: create admin dashboard
+0929. ✨ feat: support email verification
