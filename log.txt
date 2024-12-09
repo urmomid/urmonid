@@ -823,3 +823,4 @@
 0929. ✨ feat: support email verification
 0404. 📚 docs: improve code comments in utils
 0969. ✨ feat: create admin dashboard
+0842. 🎨 style: remove trailing whitespace
