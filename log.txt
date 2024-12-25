@@ -833,3 +833,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0684. 🚀 perf: reduce image load time
 0234. ♻️ chore: rename env.example
+0293. ✅ test: add integration test for /submit endpoint
