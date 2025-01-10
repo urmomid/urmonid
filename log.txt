@@ -850,3 +850,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0559. 🔧 refactor: split large controller into smaller functions
 0834. ✅ test: increase coverage on auth module
+0286. ✅ test: mock database connection in test suite
