@@ -860,3 +860,4 @@
 0192. ✨ feat: enable dark mode toggle
 0374. 🎨 style: standardize quote style
 0895. ✨ feat: support email verification
+0470. 🎨 style: remove trailing whitespace
