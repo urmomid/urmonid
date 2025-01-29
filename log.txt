@@ -867,3 +867,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0009. ✨ feat: enable dark mode toggle
 0266. 🔧 refactor: remove redundant code blocks
+0221. ✨ feat: add user authentication
