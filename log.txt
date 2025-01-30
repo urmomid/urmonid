@@ -870,3 +870,4 @@
 0221. ✨ feat: add user authentication
 0672. 🐛 fix: fix broken CSS in mobile view
 0975. 🎨 style: apply consistent indentation
+0401. 🚀 perf: reduce image load time
