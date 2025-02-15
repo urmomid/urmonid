@@ -886,3 +886,4 @@
 0362. 📚 docs: add API usage examples
 0033. 🎨 style: apply consistent indentation
 0720. ✨ feat: add export to CSV option
+0865. ♻️ chore: add GitHub actions badge
