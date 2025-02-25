@@ -892,3 +892,4 @@
 0320. 📚 docs: update README with setup steps
 0451. ✨ feat: support email verification
 0166. 🚀 perf: cache repeated calculations
+0346. ✅ test: mock database connection in test suite
