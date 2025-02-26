@@ -895,3 +895,4 @@
 0346. ✅ test: mock database connection in test suite
 0778. 📚 docs: write FAQ section
 0637. 🎨 style: apply consistent indentation
+0511. 🐛 fix: fix broken CSS in mobile view
