@@ -902,3 +902,4 @@
 0443. 🎨 style: standardize quote style
 0657. 🎨 style: standardize quote style
 0227. ✅ test: test user registration edge cases
+0934. ✨ feat: support email verification
