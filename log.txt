@@ -901,3 +901,4 @@
 0660. 🐛 fix: correct typo in registration form
 0443. 🎨 style: standardize quote style
 0657. 🎨 style: standardize quote style
+0227. ✅ test: test user registration edge cases
