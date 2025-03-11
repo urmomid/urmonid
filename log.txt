@@ -906,3 +906,4 @@
 0670. ✨ feat: add export to CSV option
 0199. ✨ feat: create admin dashboard
 0565. ♻️ chore: add GitHub actions badge
+0604. 📚 docs: add API usage examples
