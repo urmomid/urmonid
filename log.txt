@@ -923,3 +923,4 @@
 0352. ✨ feat: add export to CSV option
 0795. 📚 docs: update README with setup steps
 0707. 🎨 style: apply consistent indentation
+0035. ✅ test: increase coverage on auth module
