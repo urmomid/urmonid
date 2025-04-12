@@ -927,3 +927,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0527. 🎨 style: remove trailing whitespace
 0366. 🔧 refactor: remove redundant code blocks
+0653. 🐛 fix: prevent crash on empty input
