@@ -931,3 +931,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0208. 🔧 refactor: clean up auth middleware
 0494. 🎨 style: rename variables for clarity
+0175. 📚 docs: add API usage examples
