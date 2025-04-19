@@ -933,3 +933,4 @@
 0494. 🎨 style: rename variables for clarity
 0175. 📚 docs: add API usage examples
 0136. 🚀 perf: lazy-load components
+0785. ✨ feat: enable dark mode toggle
