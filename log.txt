@@ -952,3 +952,4 @@
 0502. 📚 docs: update README with setup steps
 0809. ♻️ chore: rename env.example
 0282. 🔧 refactor: remove redundant code blocks
+0359. 🔧 refactor: clean up auth middleware
