@@ -950,3 +950,4 @@
 0724. ✅ test: mock database connection in test suite
 0944. ✨ feat: add user authentication
 0502. 📚 docs: update README with setup steps
+0809. ♻️ chore: rename env.example
