@@ -965,3 +965,4 @@
 0429. ✨ feat: add user authentication
 0459. 🔧 refactor: organize models into subfolders
 0847. ♻️ chore: clean up unused files
+0117. ✅ test: increase coverage on auth module
