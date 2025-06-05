@@ -968,3 +968,4 @@
 0117. ✅ test: increase coverage on auth module
 0753. 🔧 refactor: remove redundant code blocks
 0277. 🎨 style: standardize quote style
+0813. 🔧 refactor: organize models into subfolders
