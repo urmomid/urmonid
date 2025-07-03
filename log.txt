@@ -992,3 +992,4 @@
 0463. 🚀 perf: reduce image load time
 0630. 🚀 perf: lazy-load components
 0695. ✨ feat: create admin dashboard
+0709. ♻️ chore: bump dependencies
