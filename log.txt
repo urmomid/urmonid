@@ -995,3 +995,4 @@
 0709. ♻️ chore: bump dependencies
 0833. ✨ feat: add user authentication
 0408. ♻️ chore: add GitHub actions badge
+0330. ✅ test: test user registration edge cases
